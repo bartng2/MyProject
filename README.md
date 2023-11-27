@@ -60,3 +60,38 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 - json (enabled by default - don't turn it off)
 - [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
 - [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+
+## About my App
+
+<p align="center"><b>Login page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163739.jpg" width="400" alt="Ảnh 1"></p>
+
+<p align="center"><b>Home page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163809.jpg" width="400" alt="Ảnh 3"></p>
+
+<p align="center"><b>Profile list page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163831.jpg" width="400" alt="Ảnh 5"></p>
+
+<p align="center"><b>Add new profile page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163847.jpg" width="400" alt="Ảnh 7"></p>
+
+<p align="center"><b>Account management page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163901.jpg" width="400" alt="Ảnh 8"></p>
+
+<p align="center"><b>Information management page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163917.jpg" width="400" alt="Ảnh 9"></p>
+
+<p align="center"><b>Statistics - reports page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163949.jpg" width="400" alt="Ảnh 3"></p>
+
+<p align="center"><b>Displays a list of statistics</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 164013.jpg" width="400" alt="Ảnh 5"></p>
+
+<p align="center"><b>Download file statistics</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 164042.jpg" width="400" alt="Ảnh 7"></p>
+
+<p align="center"><b>Account management page</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163901.jpg" width="400" alt="Ảnh 8"></p>
+
+<p align="center"><b>Statistical results</b></p>
+<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 164122.jpg" width="400" alt="Ảnh 9"></p>
