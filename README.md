@@ -63,35 +63,109 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 ## About my App
 
-<p align="center"><b>Login page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163739.jpg" width="400" alt="Ảnh 1"></p>
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Sign in page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163739.jpg" width="400" alt="Ảnh 1">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Home page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163809.jpg" width="400" alt="Ảnh 3">
+</td>
+</table>
 
-<p align="center"><b>Home page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163809.jpg" width="400" alt="Ảnh 3"></p>
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Profile list page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163831.jpg" width="400" alt="Ảnh 5">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+ Add new profile page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163847.jpg" width="400" alt="Ảnh 7">
+</td>
+</table>
 
-<p align="center"><b>Profile list page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163831.jpg" width="400" alt="Ảnh 5"></p>
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Account management page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163901.jpg" width="400" alt="Ảnh 8">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+ Information management page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163917.jpg" width="400" alt="Ảnh 9">
+</td>
+</table>
 
-<p align="center"><b>Add new profile page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163847.jpg" width="400" alt="Ảnh 7"></p>
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Statistics - reports page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163949.jpg" width="400" alt="Ảnh 3">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Displays a list of statistics
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 164013.jpg" width="400" alt="Ảnh 5">
+</td>
+</table>
 
-<p align="center"><b>Account management page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163901.jpg" width="400" alt="Ảnh 8"></p>
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Download file statistics
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 164042.jpg" width="400" alt="Ảnh 7">
+</td> 
+<td width="50%">
+<br>
+<p align="center">
+  Account management page
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 163901.jpg" width="400" alt="Ảnh 8">
+</td>
+</table>
 
-<p align="center"><b>Information management page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163917.jpg" width="400" alt="Ảnh 9"></p>
-
-<p align="center"><b>Statistics - reports page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163949.jpg" width="400" alt="Ảnh 3"></p>
-
-<p align="center"><b>Displays a list of statistics</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 164013.jpg" width="400" alt="Ảnh 5"></p>
-
-<p align="center"><b>Download file statistics</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 164042.jpg" width="400" alt="Ảnh 7"></p>
-
-<p align="center"><b>Account management page</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 163901.jpg" width="400" alt="Ảnh 8"></p>
-
-<p align="center"><b>Statistical results</b></p>
-<p align="center"><img src="public\images\imgpr\Screenshot 2023-11-27 164122.jpg" width="400" alt="Ảnh 9"></p>
+<table width="100%"> 
+<tr>
+<td width="50%">      
+&nbsp; 
+<br>
+<p align="center">
+  Statistical results
+</p>
+<img src="public\images\imgpr\Screenshot 2023-11-27 164122.jpg" width="400" alt="Ảnh 9">
+</td> 
+</table>
